@@ -1,4 +1,3 @@
 123 First line
-First line
 2Second line
 Third line
